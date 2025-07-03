@@ -1,3 +1,10 @@
+
+:root {
+    --color-primary-1: #fff9ea;
+}
+
+
+
 * {
     font-family: 'Poppins', sans-serif;
     margin: 0;
